@@ -14,12 +14,22 @@ This project utilizes machine learning techniques to predict weather conditions 
 ```
 weather-forecasting/
 │-- data/               # Dataset files (CSV, JSON, etc.)
+│   │-- weather.csv     # Historical weather dataset
+│   │-- data_loader.py  # Script to load and process data
 │-- models/             # Trained ML models
+│   │-- weather_model.pkl  # Saved trained model
 │-- notebooks/          # Jupyter Notebooks for experiments
+│   │-- exploratory_analysis.ipynb  # Data visualization and exploration
+│   │-- model_training.ipynb        # Training machine learning models
 │-- src/                # Source code for data processing & training
+│   │-- weather.py      # Script for fetching and predicting weather
+│   │-- train_model.py  # Script to train and evaluate the model
+│   │-- preprocess.py   # Data preprocessing functions
+│   │-- fetch_weather.py # API integration for real-time weather updates
 │-- README.md           # Project documentation
 │-- requirements.txt    # Python dependencies
 │-- weather.ipynb       # Main Jupyter Notebook
+│-- LICENSE             # Project license
 ```
 
 ## 📊 Dataset
