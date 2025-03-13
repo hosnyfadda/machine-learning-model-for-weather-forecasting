@@ -61,14 +61,14 @@ print(prediction)
 ✅ Data visualization & preprocessing 📊
 ✅ API integration for live weather updates ☁️
 
-## 📜 License
+## 🐜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Fork the repository, open issues, and submit pull requests.
 
-## 📧 Contact
-For inquiries, reach out to: [your.email@example.com](mailto:your.email@example.com)
+## 💎 Contact
+For inquiries, reach out to: [hosnyfadda12345@gmail.com](mailto:hosnyfadda12345@gmail.com)
 
 ---
 🔥 **Let's build a smarter weather prediction system together!** 🌍
