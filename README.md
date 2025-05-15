@@ -43,7 +43,7 @@ The dataset includes weather observations such as:
 ## 🚀 Installation & Usage
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/machine-learning-model-for-weather-forecasting.git
+git clone https://github.com/hosnyfadda/machine-learning-model-for-weather-forecasting.git
 cd machine-learning-model-for-weather-forecasting
 ```
 
